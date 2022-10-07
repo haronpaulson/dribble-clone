@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dribble-clone/static/css/main.f89dbed8.css",
+    "main.js": "/dribble-clone/static/js/main.8c26449b.js",
+    "static/js/787.d755b1cc.chunk.js": "/dribble-clone/static/js/787.d755b1cc.chunk.js",
+    "index.html": "/dribble-clone/index.html",
+    "main.f89dbed8.css.map": "/dribble-clone/static/css/main.f89dbed8.css.map",
+    "main.8c26449b.js.map": "/dribble-clone/static/js/main.8c26449b.js.map",
+    "787.d755b1cc.chunk.js.map": "/dribble-clone/static/js/787.d755b1cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f89dbed8.css",
+    "static/js/main.8c26449b.js"
+  ]
+}
